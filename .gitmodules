@@ -1,3 +1,6 @@
 [submodule "certificacao-java-se-7-programmer-i"]
 	path = certificacao-java-se-7-programmer-i
 	url = git@github.com:lucianodacunha/certificacao-java-se-7-programmer-i.git
+[submodule "certificacao-java-se-7-programmer-i-tipos-de-dados."]
+	path = certificacao-java-se-7-programmer-i-tipos-de-dados.
+	url = git@github.com:lucianodacunha/certificacao-java-se-7-programmer-i-tipos-de-dados.git
